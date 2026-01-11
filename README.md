@@ -7,7 +7,7 @@ Complete code available at https://github.com/Gabrielcnetto/Number-Guessing-Game
 ## Authors
 
 - [@GabrielcNetto](https://github.com/Gabrielcnetto)
-- [RoadmapSh](https://roadmap.sh/projects/expense-tracker)
+- [RoadmapSh](https://roadmap.sh/projects/number-guessing-game)
 
 
 ## CLI Commands
